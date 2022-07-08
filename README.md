@@ -14,7 +14,10 @@ Part of the source code of the [XYZ MINI GAMES](https://mcpedl.com/xyz-mini-game
 6. Ready! The addon is ready to work
 # Setup
 Type `/structure load "chest_hg" ~~~`
+
 Full loot table patch: `loot_tables/chest/hg.json`
+
 Loot table patch: `chest/hg` (For /loot command)
+
 Loot command: `/loot insert x y z loot "chest/hg"` (`x y z` - Container coordinates)
 
